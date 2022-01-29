@@ -1,0 +1,17 @@
+div:hover {
+    background-color: blue;
+}
+
+.cor-da-back {
+    border: 5px solid brown; 
+}
+
+h3 {
+    color: darkorange;
+    font-style: italic;
+}
+
+#maior {
+    font-size: 20px;
+}
+}

@@ -1,0 +1,38 @@
+
+.par {
+    color: green;
+}
+
+.ímpar {
+    text-transform: uppercase;
+}
+
+ol {
+    background-color: yellow;
+}
+
+h1, h2, h3 {
+    color: rgb(252, 0, 0);
+}
+
+em {
+    font-size: 40px;
+    border: 1px solid;
+    font-weight: bold;
+}
+
+li {
+    font-size: 20px;
+}
+
+.azul {
+    color: blue;
+}
+
+.rosa {
+    background-color: pink;
+}
+
+.bonus:hover {
+    background-color: rgb(78, 161, 78);
+}
