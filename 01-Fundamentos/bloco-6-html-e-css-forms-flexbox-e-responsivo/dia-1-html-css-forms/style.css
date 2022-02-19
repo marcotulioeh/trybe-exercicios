@@ -1,0 +1,82 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: rgb(93, 96, 99);
+  background-color: rgb(159, 173, 189);
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.3;
+}
+
+.for-header {
+  text-align: center;
+  background-color: rgb(246, 247, 248);
+  border: 1px solid rgb(214, 217, 220);
+  width: 50%;
+  margin: 40px auto;
+  padding: 50px;
+}
+
+.speaker-form {
+  background-color: rgb(246, 247, 248);
+  border: 1px solid rgb(214, 217, 220);
+  width: 50%;
+  margin: 40px auto;
+  margin-top: 0px;
+  padding: 50px;
+}
+
+#input-text {
+  margin: 10px auto;
+}
+
+#input-email {
+  margin: 10px auto;
+}
+
+#input-radio1 {
+  margin-right: 5px;
+  margin-left: 0;
+}
+
+#input-radio2, #input-radio3, #input-radio4 {
+  margin-left: 10px;
+  margin-right: 5px;
+  padding: 50px;
+}
+
+textarea {
+  width: 100%;
+  margin-top: 15px;
+  resize: none;
+}
+
+#div-radio {
+  margin: 30px auto;
+  margin-left: 0px;
+  line-height: 30px;
+}
+
+#forms-date{
+  margin: 20px;
+  margin-left: 0;
+  line-height: 40px;
+}
+
+#input-checkbox {
+  margin: 10px;
+}
+
+#input-checkbox-2 {
+  margin: 10px;
+}
+
+button {
+  margin: 20px;
+  margin-left: 0;
+  padding: 10px;
+}
